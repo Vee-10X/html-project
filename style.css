@@ -1,0 +1,17 @@
+*{
+ margin: o;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+ margin: 10px;
+}
+
+.coffee-plant{
+ width: 100%;
+}
+
+.footer{
+ margin-top: 100px;
+}

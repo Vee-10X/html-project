@@ -1,0 +1,62 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+ margin: 10px;
+}
+
+h1{
+ margin-bottom: 20px;
+}
+
+h2{
+ margin-top: 50px;
+ margin-bottom: 10px;
+}
+
+ul li a{
+ margin-left: 30px;
+}
+
+p{
+ margin-bottom: 20px;
+}
+
+.coffee-plant{
+ width: 100%;
+ margin-top: 20px;
+}
+
+.house-blend{
+ width: 30%;
+ height: 200px;
+ }
+
+ .house-blend, p{
+  width: 50%;
+ }
+
+.french-roast{
+ width: 50%;
+  height: 200px;
+}
+
+.french-roast,p{
+ width: 50%;
+}
+
+.columbian-rost {
+ width: 50%;
+ height: 200px;
+}
+
+.columbian-rost,p{
+ width: 50%;
+ }
+
+ .footer{
+  margin-top: 100px;
+ }
